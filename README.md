@@ -1,4 +1,4 @@
-# Joy Bingo Bot 🎮
+# Heyab Bingo Bot 🎮
 
 Telegram Bingo bot with professional admin panel.
 
